@@ -24,13 +24,13 @@ text-decoration: underline;
 }
 p.usual {
 color: #ae00ff;
-text-size: 40px;
+font-size: 40px;
 }
 p.unusual1 {
 color: #00ffbf;
-text-size: 20px;
+font-size: 20px;
 }
 p.unusual2 {
 color: #ff0077;
-text-size: 60px;
+font-size: 60px;
 }
