@@ -19,9 +19,6 @@ font-weight: bold;
 span.italic {
 font-style: italic;
 }
-span.italic {
-font-style: italic;
-}
-span.italic {
+span.under {
 text-decoration: underline;
 }
