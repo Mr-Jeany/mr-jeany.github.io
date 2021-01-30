@@ -6,11 +6,16 @@
     <title>Oops!</title>
     <link rel="icon" type="image/x-icon" href="https://jeanystest.000webhostapp.com/contacts/temmie.jpg">
     <link rel="stylesheet" href="https://jeanystest.000webhostapp.com/style.css">
+    <script>
+        function goBack() {
+         window.history.back();
+        }
+    </script>
 </head>
 <body>
     <h1 class="text">This page doesn't exist.</h1><br/>
     <h2 class="text">With love, Jeany.</h2><br/>
     <br/>
-    <a href="https://jeanystest.000webhostapp.com" class="button">Back to main page</a>
+    <a onclick="goBack()" class="button">Go back</a>
 </body>
 </html>
