@@ -13,3 +13,15 @@ color: #dd00ff;
 span.pink {
 color: #ff94d4;
 }
+span.bold {
+font-weight: bold;
+}
+span.italic {
+font-style: italic;
+}
+span.italic {
+font-style: italic;
+}
+span.italic {
+text-decoration: underline;
+}
