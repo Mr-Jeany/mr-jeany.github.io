@@ -1,2 +1,2 @@
-# This is Jeany's hub.
+# This is Jeany's site.
 ^^^
