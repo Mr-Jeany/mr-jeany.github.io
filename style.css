@@ -2,7 +2,7 @@ BODY {
     font-family: Noto Sans, sans-serif;
     background-color: #000000;
 }
-.button {
+BUTTON {
     color: #ffffff;
     text-decoration: none;
     background: #2e2e2e;
@@ -10,7 +10,7 @@ BODY {
     border-radius: 50px;
     transition: 0.5s;
 }
-.button:hover {
+BUTTON:hover {
   background:#575757;
 }
 .image {
