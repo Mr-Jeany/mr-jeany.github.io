@@ -37,13 +37,12 @@ p.test2 {
   height:50px;
   width:25px;
   color:red;
+  position: relative;
 }
 .tria::after {
   position:absolute;
   border: 50px solid transparent;
   border-top: 50px solid red;
-  width:0;
-  height:0;
 }
 .ots {
   margin:30px;
