@@ -34,8 +34,6 @@ p.test2 {
 }
 .block {
  background: green;
- border-radius: 10px;
- padding: 20px;
  position: relative;
  color: #fff;
 }
