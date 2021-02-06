@@ -34,8 +34,8 @@ p.test2 {
 }
 .tria {
   margin:30px;
-  border: 10px solid transparent;
-  border-top: 10px solid red;
+  border: 50px solid transparent;
+  border-top: 50px solid red;
   width:0;
   height:0;
 }
