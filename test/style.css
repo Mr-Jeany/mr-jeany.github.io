@@ -1,36 +1,5 @@
-span.red {
-color: #ff0000;
-}
-span.orange {
-color: #ff7b00;
-}
-span.blue {
-color: #0073ff;
-}
-span.purple {
-color: #dd00ff;
-}
-span.pink {
-color: #ff94d4;
-}
-span.boldd {
-font-weight: bold;
-}
-span.italic {
-font-style: italic;
-}
-span.under {
-text-decoration: underline;
-}
-p.usual {
-color: #ae00ff;
-font-size: 40px;
-}
-p.unusual1 {
-color: #00ffbf;
-font-size: 20px;
-}
-p.unusual2 {
-color: #ff0077;
-font-size: 60px;
+p.test1 {
+  background-color: #eb4034;
+  borde-color: #9634eb;
+  border:10px;
 }
