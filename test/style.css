@@ -12,6 +12,12 @@ p.test2 {
   margin:0;
   padding:0;
 }
+#small_bottom {
+  border-bottom: 15px solid #b4eb34;
+}
+#small_top {
+  border-top: 15px solid #b4eb34;
+}
 .svet {
   border-radius:30px;
   width:50px;
