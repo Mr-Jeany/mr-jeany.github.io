@@ -1,5 +1,6 @@
 BODY {
     font-family: Noto Sans, sans-serif;
+    background: rgb(32,81,149);
     background: linear-gradient(90deg, rgba(32,81,149,1) 0%, rgba(0,255,145,1) 100%);
 }
 a.button {
